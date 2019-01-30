@@ -1,2 +1,2 @@
-# Algorithm
-Algorithm &amp; Data Structure example code
+# Baekjoon Online Judge
+python code
